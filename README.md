@@ -13,7 +13,7 @@ pip install aemo-nmi-lookup
 ## Usage
 
 ```python
-from aemo_nmi_lookup import nmi_lookup
+from aemo_nmi_info import nmi_lookup
 
 nmi = '8001234567'
 state, participant_id = nmi_lookup(nmi)

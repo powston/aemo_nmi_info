@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="aemo_nmi_info",
-    version="0.0.1",
+    version="0.0.2",
     author="Ian Connor",
     author_email="ian@powston.com",
     description="A package to look up AEMO NMI information",
